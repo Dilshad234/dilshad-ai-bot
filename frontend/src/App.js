@@ -202,7 +202,7 @@ function App() {
               </button>
             </div>
           </div>
-          <p className="footer-disclaimer">EduBuddy can make mistakes, so double-check it.</p>
+          <p className="footer-disclaimer">Dilshad's AI Bot can make mistakes, so double-check it.</p>
         </footer>
       </main>
     </div>
